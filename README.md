@@ -3,7 +3,8 @@
 I design and build systems that:
 - Detect failures before customers feel them  
 - Convert alerts into actionable intelligence  
-- Reduce MTTR using Dynatrace, automation, and data  
+- Reduce MTTR using AWS,ELK,Dynatrace, automation, and data
+- I Use KIRO to automate small projects and play around 
 
 ---
 
