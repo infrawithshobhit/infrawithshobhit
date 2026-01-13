@@ -10,7 +10,7 @@ I design and build systems that:
 
 ## 🔧 What I work on
 - AWS Services
-- Dynatrace automation  
+- ELK & Dynatrace automation  
 - SRE dashboards  
 - Incident intelligence using LLMs  
 - Reliability engineering for production systems  
@@ -20,7 +20,8 @@ I design and build systems that:
 ## 🚀 Featured Projects
 - **SRE GPT Dashboard** – AI-powered Dynatrace incident analysis  
 - **Dynatrace Operator** – Kubernetes observability automation  
-- **SRE Playbooks** – Real-world incident response workflows  
+- **SRE Playbooks** – Real-world incident response workflows
+- **Career Referee for Engineers** - Decision engine that helps engineers choose between SRE, DevOps, Platform, and Dev roles
 
 ---
 
