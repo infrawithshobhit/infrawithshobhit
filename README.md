@@ -11,6 +11,7 @@ I design and build systems that:
 ## 🔧 What I work on
 - AWS Services
 - ELK & Dynatrace automation  
+- APIs
 - SRE dashboards  
 - Incident intelligence using LLMs  
 - Reliability engineering for production systems  
