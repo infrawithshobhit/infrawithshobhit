@@ -14,7 +14,7 @@ I design and build systems that:
 - APIs
 - SRE dashboards  
 - Incident intelligence using LLMs  
-- Reliability engineering for production systems  
+- Agentic AI/Reliability engineering for production systems  
 
 ---
 
