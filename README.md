@@ -4,7 +4,7 @@
 
 I bridge the gap between **complex engineering systems** and the **developers who build on them** — through content, community, speaking, and hands-on technical storytelling.
 
-> *"The best reliability engineering is the kind developers never have to think about — because someone taught them how to do it right."*
+> *"The best reliability engineering is the kind developers never have to think about - because someone taught them how to do it right."*
 
 ---
 
