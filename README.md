@@ -83,7 +83,7 @@ My approach: **Build in public. Teach through demos. Make the complex feel obvio
 [![Instagram](https://img.shields.io/badge/Instagram-TheJugaadSRE-E4405F?style=flat&logo=instagram)](https://instagram.com/thejugaadsre)
 [![Blog](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=flat&logo=hashnode)](https://hashnode.com/@Vershobhit)
 [![Website](https://img.shields.io/badge/Portfolio-infrawithshobhit.github.io-ff8c00?style=flat&logo=github)](https://infrawithshobhit.github.io/mywebsite/)
-[![YouTube](https://img.shields.io/badge/YouTube-TheJugaadGuy-FF0000?style=flat&logo=youtube)](https://youtube.com/@TheJugaadsre)
+[![YouTube](https://img.shields.io/badge/YouTube-TheJugaadSRE-FF0000?style=flat&logo=youtube)](https://youtube.com/@TheJugaadsre)
 
 ---
 
