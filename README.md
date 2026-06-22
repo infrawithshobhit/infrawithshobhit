@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Shobhit Verma — aka TheJugaadSRE
+# 👋 Hi, I'm Shobhit Verma - aka TheJugaadSRE
 
 ### Developer Advocate | SRE Leader | Community Builder | Agentic AI Enthusiast
 
-I bridge the gap between **complex engineering systems** and the **developers who build on them** — through content, community, speaking, and hands-on technical storytelling.
+I bridge the gap between **complex engineering systems** and the **developers who build on them** - through content, community, speaking, and hands-on technical storytelling.
 
 > *"The best reliability engineering is the kind developers never have to think about - because someone taught them how to do it right."*
 
@@ -10,12 +10,12 @@ I bridge the gap between **complex engineering systems** and the **developers wh
 
 ## 🎤 What I Do Beyond the Terminal
 
-- 🗣️ **Tech Speaker** — AgentCamp 2026, AWS SCD Pune & community events
-- 👥 **Community Volunteer** — AWS User Group Pune | Atlassian Community
-- ✍️ **Technical Blogger** — SRE, DevOps, GenAI @ [hashnode.com/@Vershobhit](https://hashnode.com/@Vershobhit)
-- 📱 **Content Creator** — 50K+ followers across [@TheJugaadSRE](https://instagram.com/thejugaadsre) & [@TheJugaadGuy](https://instagram.com/thejugaadguy)
-- 🎬 **Filmmaker** — Short film writer & director, international festival recognition
-- 🌍 **Traveller** — 12 countries, cross-cultural perspectives in everything I build
+- 🗣️ **Tech Speaker** - AgentCamp 2026, AWS SCD Pune & community events
+- 👥 **Community Volunteer** - AWS User Group Pune | Atlassian Community
+- ✍️ **Technical Blogger** - SRE, DevOps, GenAI @ [hashnode.com/@Vershobhit](https://hashnode.com/@Vershobhit)
+- 📱 **Content Creator** - 50K+ followers across [@TheJugaadSRE](https://instagram.com/thejugaadsre) & [@TheJugaadGuy](https://instagram.com/thejugaadguy)
+- 🎬 **Filmmaker** - Short film writer & director, international festival recognition
+- 🌍 **Traveller** - 12 countries, cross-cultural perspectives in everything I build
 
 ---
 
@@ -23,7 +23,7 @@ I bridge the gap between **complex engineering systems** and the **developers wh
 
 I believe developer experience is a **reliability problem in disguise**.
 
-When developers have great tooling, great documentation, and great communities around them — systems become more reliable, incidents become rarer, and engineering teams actually enjoy their work.
+When developers have great tooling, great documentation, and great communities around them - systems become more reliable, incidents become rarer, and engineering teams actually enjoy their work.
 
 My approach: **Build in public. Teach through demos. Make the complex feel obvious.**
 
@@ -31,11 +31,11 @@ My approach: **Build in public. Teach through demos. Make the complex feel obvio
 
 ## 🔧 Technical Foundation (15+ Years)
 
-- **Observability & SRE** — ELK Stack, Dynatrace, SLI/SLO, incident intelligence
-- **Cloud & Platform** — AWS, Azure, Terraform, Kubernetes, ArgoCD
-- **Security & Compliance** — Cloud security, vulnerability governance, PSD2 (UK banking regulation)
-- **AI & Agentic Workflows** — Claude, GPT, Kiro — building real automation, not demos
-- **DevSecOps** — CI/CD pipelines, Jenkins, GitHub Actions, platform reliability
+- **Observability & SRE** - ELK Stack, Dynatrace, SLI/SLO, incident intelligence
+- **Cloud & Platform** - AWS, Azure, Terraform, Kubernetes, ArgoCD
+- **Security & Compliance** - Cloud security, vulnerability governance, PSD2 (UK banking regulation)
+- **AI & Agentic Workflows** - Claude, GPT, Kiro - building real automation, not demos
+- **DevSecOps** - CI/CD pipelines, Jenkins, GitHub Actions, platform reliability
 
 ---
 
@@ -45,21 +45,34 @@ My approach: **Build in public. Teach through demos. Make the complex feel obvio
 |---|---|
 | **[SRE GPT Dashboard](https://github.com/infrawithshobhit/sre-gpt-dashboard)** | AI-powered Dynatrace incident analysis using LLMs |
 | **[SRE Playbooks](https://github.com/infrawithshobhit/sre-playbooks)** | Real-world incident response workflows, open sourced |
-| **[Career Referee for Engineers](https://github.com/infrawithshobhit/career-referee)** | Decision engine — SRE vs DevOps vs Platform vs Dev |
+| **[Career Referee for Engineers](https://github.com/infrawithshobhit/career-referee)** | Decision engine - SRE vs DevOps vs Platform vs Dev |
 | **[Vajra AI](https://github.com/infrawithshobhit/vajra-ai)** | Agentic AI reliability tooling for production systems |
 | **[My Website](https://github.com/infrawithshobhit/mywebsite)** | Created my website and hosted it on Github itself |
 
 ---
 
+## 🤝 Open Source Contributions
+
+| Date | Platform | Contribution | Status |
+|---|---|---|---|
+| Jun 2026 | 🟠 Grafana | [K8s SRE Incident Response Dashboard](https://grafana.com/grafana/dashboards/25490) - 8 panels for on-call triage | ✅ Published |
+| Jun 2026 | 🔴 SigNoz | [K8s SRE Incident Response Dashboard](https://github.com/SigNoz/dashboards/pull/376) - PR #376 | 🔄 Under Review |
+
+> Built for the on-call engineer who gets paged at 2am - not the capacity planner browsing metrics.  
+> Covers pod restarts, node pressure, p99 SLI, error budget burn, and PVC storage failures.  
+> **Two platforms. One day. 14 years of real SRE experience distilled into 8 panels.**
+
+
+
 ## 📣 Speaking & Community
 
 ```
-✅ AgentCamp 2026        — Agentic AI in SRE workflows
-✅ Calyon AI             — Agentic AI 
-✅ AWS SCD Pune          — Cloud observability & reliability
-✅ Internal Bootcamps    — ELK, AWS, Terraform (600+ engineers)
-✅ College & Cloud Clubs — Observability & engineering practices
-✅ Toastmasters          — District-level International Speech Contest 2023-24
+✅ AgentCamp 2026        - Agentic AI in SRE workflows
+✅ Calyon AI             - Agentic AI 
+✅ AWS SCD Pune          - Cloud observability & reliability
+✅ Internal Bootcamps    - ELK, AWS, Terraform (600+ engineers)
+✅ College & Cloud Clubs - Observability & engineering practices
+✅ Toastmasters          - District-level International Speech Contest 2023-24
 ```
 
 ---
