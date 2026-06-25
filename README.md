@@ -86,7 +86,7 @@ My approach: **Build in public. Teach through demos. Make the complex feel obvio
 600+ Engineers onboarded/mentored
 100+ Projects led across cloud, SRE, and AI
  12  Countries explored (and counting)
-```
+---
 
 ---
 
